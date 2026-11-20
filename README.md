@@ -100,6 +100,18 @@ MCA portal expects.
 
 ---
 
+## Pricing and trial
+
+| Plan | INR incl. 18% GST (India) | US dollars excl. tax (elsewhere) |
+|------|---------------------------|----------------------------------|
+| Per user, per year | 999 | about 10 |
+| Firm Starter (up to 5 Macs), per year | 3,499 | about 35 |
+| Firm Practice (up to 25 Macs), per year | 14,999 | about 151 |
+
+Free 30-day trial: write to [sales@zyvor.dev](mailto:sales@zyvor.dev) for a trial key. The trial is soft: nothing is disabled and no data is lost when it ends. Buy: [zyvor.dev/buy](https://zyvor.dev/buy). Prices: INR incl. 18% GST in India; US dollars excl. tax elsewhere (VAT, GST or sales tax added where applicable). Standard orders: pay online with Razorpay (UPI, card, netbanking). Bigger orders, team and volume orders, and customers outside India: we send a US-dollar invoice and you pay through Skydo (international bank transfer, or card/ACH through a secure Skydo link). Custom pricing: contact sales@zyvor.dev.
+
+---
+
 ## Uninstall
 
 ```bash
