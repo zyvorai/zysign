@@ -28,18 +28,12 @@ No Python, Xcode, or Homebrew required. ZySign bundles everything it needs.
 
 ## Install
 
-### Option A — DMG (drag to Applications)
+### DMG (drag to Applications)
 
-1. Download `ZySign-1.1.0.dmg` from the [Releases](https://github.com/hypersdk/zysign/releases) page
+1. Download the latest `ZySign-*.dmg` from the [Releases](https://github.com/zyvorai/zysign/releases) page
 2. Open the DMG and drag **ZySign** to `/Applications`
 3. If Gatekeeper warns, allow it in **System Settings › Privacy & Security**
 4. Open `ZySign.app`
-
-### Option B — Homebrew Cask
-
-```bash
-brew install --cask hypersdk/tap/zysign
-```
 
 ---
 
