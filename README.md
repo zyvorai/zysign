@@ -102,7 +102,7 @@ MCA portal expects.
 | Firm Starter (up to 5 Macs), per year | 3,499 | about 35 |
 | Firm Practice (up to 25 Macs), per year | 14,999 | about 151 |
 
-Free 30-day trial: write to [sales@zyvor.dev](mailto:sales@zyvor.dev) for a trial key. No data is lost when it ends; a commercial license is required to keep using it. Buy: [zyvor.dev/buy](https://zyvor.dev/buy). Prices: INR incl. 18% GST in India; US dollars excl. tax elsewhere (VAT, GST or sales tax added where applicable). Standard orders: pay online with Razorpay (UPI, card, netbanking). Bigger orders, team and volume orders, and customers outside India: we send a US-dollar invoice and you pay through Skydo (international bank transfer, or card/ACH through a secure Skydo link). Custom pricing: contact sales@zyvor.dev.
+Free 30-day trial: write to [sales@zyvor.dev](mailto:sales@zyvor.dev) for a trial key. No data is lost when it ends; a commercial license is required to keep using it. Buy: [zyvor.dev/buy](https://zyvor.dev/buy#zysign). Prices: INR incl. 18% GST in India; US dollars excl. tax elsewhere (VAT, GST or sales tax added where applicable). Standard orders: pay online with Razorpay (UPI, card, netbanking). Bigger orders, team and volume orders, and customers outside India: we send a US-dollar invoice and you pay through Skydo (international bank transfer, or card/ACH through a secure Skydo link). Custom pricing: contact sales@zyvor.dev.
 
 ---
 
